@@ -1,1 +1,3 @@
 myfile.txt
+mydata/*
+!file15.txt
